@@ -12,7 +12,7 @@ var swiper = new Swiper(".mySwiper", {
     speed: 2000, // More speed required for full page scroll in any device
     keyboard: true,
     preventInteractionOnTransition: true,
-    transition: 1000,
+    duration: 1000,
     simulateTouch: true,
 });
 

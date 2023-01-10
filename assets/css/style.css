@@ -1169,3 +1169,45 @@ section {
 .person__background {
     position: absolute;
 }
+
+
+
+/* New addition */
+
+.lang-choose {
+    font-size: 1.6rem;
+    line-height: 2.6rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+}
+
+.langs {
+    position: absolute !important;
+    bottom: 12rem !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+}
+
+.lang-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 5rem;
+}
+
+.lang-icons img {
+    width: 5rem;
+    height: 5rem;
+}
+
+.lang__icon {
+    opacity: 0.3 !important;
+}
+
+.lang__icon:hover {
+    opacity: 0.5 !important;
+}
+
+.lang__icon.active {
+    opacity: 1 !important;
+}
