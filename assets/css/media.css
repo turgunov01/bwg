@@ -1,0 +1,1107 @@
+@media(max-width: 1440px) {
+    .first__video {
+        max-width: 50rem;
+    }
+
+    .first__scroll {
+        bottom: 5rem;
+    }
+
+    .sec__about {
+        font-size: 5rem;
+        line-height: 6rem;
+    }
+
+    .sec__card-icon {
+        width: 8rem;
+        height: 8rem;
+    }
+
+    .sec__card-txt {
+        font-size: 2.4rem;
+        line-height: 3.4rem;
+    }
+
+    .thr__title {
+        font-size: 13rem;
+        line-height: 14rem;
+    }
+
+    .thr {
+        row-gap: 8rem;
+    }
+
+    .ftr {
+        row-gap: 8rem;
+    }
+
+    .ftr__name {
+        font-size: 22rem;
+        line-height: 23rem;
+    }
+
+    .fvt__about {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    .fvt__title {
+        font-size: 8rem;
+        line-height: 14rem;
+    }
+
+    .button {
+        transform: scale(0.8);
+    }
+
+    .sxt__title {
+        font-size: 15rem;
+        line-height: 15rem;
+    }
+
+    .sxt__about {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    .svn__txt {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    .plat__card img {
+        width: 8rem;
+        height: 8rem;
+    }
+
+    .eig {
+        padding: 5rem;
+    }
+
+    .eig__title {
+        font-size: 14rem;
+        line-height: 14rem;
+    }
+
+    .tn__title {
+        font-size: 7rem;
+        line-height: 7rem;
+    }
+
+    .tn__about {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    .tn__button {
+        transform: scale(0.8);
+    }
+
+    .elv__title {
+        font-size: 25rem;
+        line-height: 25rem;
+    }
+
+    .thrt__title {
+        font-size: 13rem;
+        line-height: 13rem;
+    }
+
+    .thrt__about {
+        font-size: 3rem;
+        line-height: 5rem;
+    }
+
+    .person__cards {
+        column-gap: 6rem;
+    }
+
+    .person__spons {
+        width: 85%;
+    }
+
+    .sec__about {
+        margin: 6rem auto;
+    }
+}
+
+@media(max-width: 1320px) {
+    .sec__about {
+        margin: 4rem auto;
+        font-size: 4rem;
+        line-height: 5rem;
+    }
+
+    .sec__card-txt {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+
+    .sec__card {
+        max-width: 40rem;
+    }
+
+    .sec__cards {
+        column-gap: 3rem;
+    }
+
+    .thr__title {
+        font-size: 10rem;
+        line-height: 11rem;
+    }
+
+    .thr__projects {
+        width: 60%;
+    }
+
+    .sec__logo {
+        max-width: 20rem;
+    }
+
+    .ftr__name {
+        font-size: 19rem;
+        line-height: 18rem;
+    }
+
+    .ftr__image {
+        max-width: 80rem;
+    }
+
+    .fvt__title {
+        font-size: 7rem;
+        line-height: 10rem;
+    }
+
+    .sxt::before {
+        height: 30rem;
+    }
+
+    .sxt::after {
+        height: 30rem;
+    }
+
+    .sxt__image {
+        object-fit: cover;
+        height: 100%;
+    }
+
+    .sxt__title {
+        top: 7.5rem;
+    }
+
+    .sxt__about {
+        bottom: 7.5rem;
+    }
+
+    .svn__txt {
+        font-size: 2.6rem;
+        line-height: 4rem;
+    }
+
+    .plat__card img {
+        width: 6rem;
+        height: 6rem;
+    }
+
+    .svn__title {
+        font-size: 13rem;
+        line-height: 13rem;
+    }
+
+    .eig__title {
+        font-size: 12rem;
+        line-height: 12rem;
+    }
+
+    .tn__title {
+        font-size: 5rem;
+        line-height: 5rem;
+    }
+
+    .tn__button:hover {
+        transform: scale(0.9);
+    }
+
+    .person__spons {
+        width: 75%;
+    }
+
+    .person__title {
+        font-size: 5rem;
+        line-height: 5rem;
+    }
+
+    .person {
+        row-gap: 3rem;
+    }
+
+    .first__scroll {
+        bottom: 5rem;
+    }
+
+    .person__cards {
+        column-gap: 3rem;
+    }
+}
+
+@media(max-width: 1280px) {
+    .sxt__about {
+        bottom: 5rem;
+    }
+
+    .tn__title {
+        font-weight: 700;
+    }
+
+    .elv__title {
+        font-size: 23rem;
+        line-height: 23rem;
+    }
+
+}
+
+@media(max-width: 1140px) {
+    .sec__about {
+        margin: 0 auto;
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+
+    .first__video {
+        max-width: 40rem;
+    }
+
+    .sec__card-txt {
+        margin-top: 1rem;
+    }
+
+    .sec__card-icon {
+        width: 7rem;
+        height: 7rem;
+    }
+
+    .thr {
+        row-gap: 6rem;
+    }
+
+    .ftr {
+        row-gap: 5rem;
+    }
+
+    .ftr__name {
+        font-size: 17rem;
+        line-height: 16rem;
+    }
+
+    .ftr__image {
+        max-width: 65rem;
+    }
+
+    .fvt__about {
+        font-size: 2rem;
+        line-height: 4rem;
+    }
+
+    .watch {
+        transform: scale(0.7);
+    }
+
+    .watch:hover {
+        transform: scale(0.8);
+    }
+
+    .fvt {
+        row-gap: 6rem;
+    }
+
+    .sxt__title {
+        font-size: 10rem;
+        line-height: 11rem;
+    }
+
+    .sxt::before {
+        height: 20rem;
+    }
+
+    .sxt::after {
+        height: 22rem;
+    }
+
+    .svn__txt {
+        font-size: 2.2rem;
+        line-height: 3.2rem;
+    }
+
+    .svn__title {
+        font-size: 10rem;
+        line-height: 10rem;
+    }
+
+    .plat {
+        column-gap: 8rem;
+    }
+
+    .tn__button:hover {
+        transform: scale(0.8);
+    }
+
+    .tn__button {
+        transform: scale(0.7);
+    }
+
+    .thrt__title {
+        font-size: 13rem;
+        line-height: 10rem;
+    }
+
+    .thrt {
+        row-gap: 4rem;
+    }
+
+    .person__name {
+        font-size: 2rem;
+        line-height: 3rem;
+        font-weight: 600;
+        font-family: 'flex';
+    }
+
+    .person__card {
+        height: 40rem;
+    }
+
+    .person__image,
+    .person__photo {
+        width: 20rem;
+        height: 20rem;
+    }
+
+    .person__job {
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+    }
+
+    .person__card {
+        justify-content: flex-start;
+    }
+}
+
+@media(max-width: 1024px) {
+    .sec__card-txt {
+        font-size: 1.8rem;
+        line-height: 2.8rem;
+    }
+
+    .sec__logo {
+        max-width: 16rem;
+    }
+
+    .ftr__name {
+        font-size: 14rem;
+        line-height: 13rem;
+    }
+
+    .fvt__title {
+        font-size: 6rem;
+        line-height: 9rem;
+    }
+
+    .tn__button {
+        transform: scale(0.7);
+    }
+
+    .tn__button:hover {
+        transform: scale(0.8);
+    }
+
+    .thrt__title {
+        font-size: 10rem;
+        line-height: 7rem;
+    }
+
+    .thrt__about {
+        font-size: 2.4rem;
+        line-height: 5rem;
+    }
+
+    .person__cards {
+        column-gap: 2rem;
+    }
+
+    .tn__about {
+        font-size: 2rem;
+        line-height: 4rem;
+    }
+
+    .elv__title {
+        font-size: 20rem;
+        line-height: 20rem;
+    }
+
+    .person__card {
+        max-width: 30rem;
+        height: 35rem;
+    }
+}
+
+@media(max-width: 990px) {
+    .first__scroll {
+        bottom: 3rem;
+        width: 5rem;
+        height: 5rem;
+    }
+
+    .sec__card-icon {
+        width: 6rem;
+        height: 6rem;
+    }
+
+    .ftr__about {
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+
+    .ftr__image {
+        max-width: 55rem;
+    }
+
+    .fvt {
+        row-gap: 4rem;
+    }
+
+    .eig__title {
+        font-size: 10rem;
+        line-height: 10rem;
+    }
+
+    .swiper-button-next2,
+    .swiper-button-prev2 {
+        width: 8rem !important;
+        height: 8rem !important;
+    }
+
+    .swiper-button-prev2 {
+        right: 8rem !important;
+    }
+
+    .nin__button-icon {
+        padding: 2.5rem;
+    }
+
+    .elv__title {
+        font-size: 18rem;
+        line-height: 18rem;
+    }
+
+    .elv__title {
+        font-size: 18rem;
+        line-height: 18rem;
+    }
+
+    .thrt__about {
+        font-size: 2rem;
+        line-height: 4rem;
+    }
+
+    .person__image,
+    .person__photo {
+        width: 18rem;
+        height: 18rem;
+    }
+
+    .person__title {
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+}
+
+@media(max-width: 860px) {
+    .sec__card-txt {
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+    }
+
+    .ftr__name {
+        font-size: 10rem;
+        line-height: 9rem;
+    }
+
+    .ftr__about {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+
+    .ftr__image {
+        max-width: 45rem;
+    }
+
+    .thr {
+        row-gap: 4rem;
+    }
+
+    .thr__title {
+        font-size: 9rem;
+        line-height: 10rem;
+    }
+
+    .fvt__about {
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+    }
+
+    .fvt__title {
+        font-size: 5rem;
+        line-height: 8rem;
+    }
+
+    .sxt::after {
+        height: 20rem;
+    }
+
+    .sxt__about {
+        font-size: 2rem;
+        line-height: 4rem;
+    }
+
+    .sxt__title {
+        top: 5rem;
+    }
+
+    .svn__txt {
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+    }
+
+    .plat__card img {
+        width: 5rem;
+        height: 5rem;
+    }
+
+    .plat__card-name {
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+    }
+
+    .plat {
+        column-gap: 5rem;
+    }
+
+    .svn__title {
+        font-size: 8rem;
+        line-height: 8rem;
+    }
+
+    .svn {
+        row-gap: 4rem;
+    }
+
+    .eig {
+        padding: 3rem;
+    }
+
+    .eig__title {
+        font-size: 8rem;
+        line-height: 8rem;
+    }
+
+    .tn__about {
+        font-size: 1.8rem;
+        line-height: 2.8rem;
+    }
+
+    .tn__button {
+        transform: scale(0.6);
+    }
+
+    .tn__button:hover {
+        transform: scale(0.7);
+    }
+
+    .tn {
+        row-gap: 4rem;
+    }
+
+    .elv__title {
+        font-size: 16rem;
+        line-height: 16rem;
+    }
+
+    .person__job {
+        font-size: 1.4rem;
+        width: max-content;
+        line-height: 2.4rem;
+    }
+
+    .person__image,
+    .person__photo {
+        width: 15rem;
+        height: 15rem;
+    }
+
+    .person__card {
+        height: 33rem;
+        width: 25rem;
+    }
+
+    .svn::before {
+        bottom: -50%;
+        left: 0;
+        width: 50rem;
+        height: 50rem;
+    }
+
+    .person {
+        row-gap: 2rem;
+    }
+
+    .end__image {
+        max-width: 20rem;
+    }
+
+    .first__scroll {
+        bottom: 2rem;
+        width: 4rem;
+        height: 4rem;
+    }
+
+
+}
+
+@media(max-width: 768px) {
+    .swiper {
+        display: none;
+    }
+
+    .sxt__image {
+        width: max-content;
+        left: 0;
+    }
+
+    .hidden__block {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .sec__about {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+
+    .sec__cards {
+        column-gap: 0rem;
+    }
+
+    .sec__card-icon {
+        width: 5rem;
+        height: 5rem;
+    }
+
+    .sec {
+        row-gap: 4rem;
+    }
+
+    .thr__title {
+        font-size: 8rem;
+        line-height: 10rem;
+    }
+
+    .tn__title {
+        font-size: 4rem;
+        line-height: 6rem;
+    }
+
+    .person__image,
+    .person__photo {
+        width: 10rem;
+        height: 10rem;
+    }
+
+    /* .sherzod {
+        cursor: pointer;
+        transition: .5s;
+    }
+
+    .sherzod:hover {
+        margin-left: 17.5rem;
+    }
+
+    .kamran {
+        cursor: pointer;
+        transition: .5s;
+    }
+
+    .kamran:hover {
+        margin-right: 17.5rem;
+    } */
+
+    .person {
+        row-gap: 3rem;
+    }
+
+    .person__job {
+        width: 100%;
+    }
+
+    .person__card {
+        height: 30rem;
+        min-width: 30rem;
+        width: 100%;
+        max-width: 30rem;
+    }
+
+    .person__image,
+    .person__photo {
+        width: 15rem;
+        height: 15rem;
+    }
+
+    .person__card {
+        height: 35rem;
+    }
+
+    .person__cards {
+        column-gap: 1rem;
+        display: flex;
+        justify-content: flex-start;
+        overflow-x: auto;
+        flex-direction: row;
+        white-space: nowrap;
+    }
+
+    .person__cards::-webkit-scrollbar {
+        height: 0;
+    }
+
+    .svn__image {
+        bottom: -25% !important;
+    }
+
+    .plat__card a {
+        width: 10rem;
+
+    }
+}
+
+@media(max-width: 660px) {
+    .sec__card {
+        height: 100%;
+        min-width: 30rem;
+        width: 100%;
+    }
+
+    .sec {
+        overflow: hidden;
+    }
+
+    .sec__cards {
+        column-gap: 0rem;
+        display: flex;
+        justify-content: flex-start;
+        overflow-x: auto;
+        white-space: wrap;
+        width: 100%;
+        padding-left: 2rem;
+    }
+
+    .sxt__title {
+        font-size: 7rem;
+        line-height: 8rem;
+    }
+
+    .eig__title {
+        font-size: 6rem;
+        line-height: 6rem;
+    }
+
+    .eig__image {
+        width: 120%;
+    }
+
+    .thrt__about {
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+    }
+
+    .thrt__title {
+        font-size: 7rem;
+        line-height: 7rem;
+    }
+}
+
+@media(max-width: 575px) {
+    .sec__cards {
+        padding: 0;
+    }
+
+    .eig__image {
+        right: 0;
+        width: 200%;
+    }
+
+    .sec__card {
+        min-width: 25rem;
+    }
+
+    .ftr__name {
+        font-size: 7rem;
+        line-height: 7rem;
+    }
+
+    .ftr__about {
+        font-size: 1.8rem;
+        line-height: 2.8rem;
+    }
+
+    .eig__image {
+        width: 150%;
+    }
+
+    .eig__spons {
+        width: 75%;
+    }
+
+    .tn__title {
+        font-size: 3rem;
+        line-height: 4rem;
+    }
+
+    .tn__about {
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+    }
+
+    .tn__button {
+        transform: scale(0.4);
+    }
+
+    .tn__button:hover {
+        transform: scale(0.5);
+    }
+
+    .elv__title {
+        font-size: 8rem;
+        line-height: 8rem;
+    }
+}
+
+@media(max-width: 500px) {
+    .thr__title {
+        font-size: 6rem;
+        line-height: 8rem;
+    }
+
+    .sec__logo {
+        max-width: 12rem;
+    }
+
+    .thr__projects {
+        width: 90%;
+    }
+
+    .fvt__title {
+        font-size: 3rem;
+        line-height: 4rem;
+        width: 100%;
+    }
+
+    .watch {
+        transform: scale(0.4);
+    }
+
+    .watch:hover {
+        transform: scale(0.5);
+    }
+
+    .sxt__title {
+        font-size: 7rem;
+        line-height: 7rem;
+        width: 100%;
+    }
+
+    .sxt::before {
+        height: 15rem;
+    }
+
+    .sxt__about {
+        font-size: 1.6rem;
+        line-height: 2.6rem;
+    }
+
+    .svn__txt {
+        font-size: 1.4rem;
+        line-height: 2.4rem;
+    }
+
+    .svn {
+        row-gap: 3rem;
+    }
+
+    .plat__card a {
+        row-gap: 1rem;
+    }
+
+    .plat__card img {
+        width: 4rem;
+        height: 4rem;
+    }
+
+}
+
+@media(max-width: 450px) {
+    .fvt {
+        row-gap: 2rem;
+        padding-top: 2rem;
+    }
+
+    .fvt__about {
+        font-size: 1.4rem;
+        line-height: 2.4rem;
+    }
+
+    .plat {
+        column-gap: 3rem;
+    }
+
+    .svn__image {
+        bottom: -5rem;
+    }
+
+    .eig {
+        padding: 2rem;
+    }
+
+    .first__video {
+        max-width: 80vw;
+    }
+
+    .tn__title {
+        font-size: 2rem;
+        line-height: 3rem;
+    }
+
+    .swiper-button-next2,
+    .swiper-button-prev2 {
+        width: 5rem !important;
+        height: 5rem !important;
+    }
+
+    .nin__button-icon {
+        padding: 1.5rem;
+    }
+
+    .swiper-button-prev2 {
+        right: 5rem !important;
+    }
+
+    .person__card {
+        height: 30rem;
+        max-width: 25rem;
+        min-width: 25rem;
+    }
+
+    .person__image,
+    .person__photo {
+        width: 12rem;
+        height: 12rem;
+    }
+
+    .person__spons {
+        width: 95%;
+    }
+
+    .first__scroll {
+        width: 3rem;
+        height: 3rem;
+    }
+
+}
+
+@media(max-width: 400px) {
+    .sxt__about {
+        width: 80vw;
+    }
+
+    .sxt::before {
+        height: 13rem;
+    }
+
+    .sxt__title {
+        top: 4rem;
+    }
+
+    .svn__title {
+        font-size: 5rem;
+        line-height: 5rem;
+    }
+
+    .plat {
+        column-gap: 2rem;
+    }
+
+    .eig__title {
+        font-size: 5rem;
+        line-height: 5rem;
+    }
+
+    .eig__spons {
+        width: 100%;
+    }
+
+    .tn__about {
+        font-size: 1.4rem;
+        line-height: 2.4rem;
+    }
+}
+
+@media(max-width: 350px) {
+    .fvt__about {
+        padding: 0;
+    }
+
+    .plat__card a {
+        width: 9rem;
+    }
+
+    .plat__card-name {
+        font-size: 1.4rem;
+        line-height: 2.4rem;
+    }
+
+    .thr__title {
+        font-size: 4rem;
+        line-height: 5rem;
+    }
+
+    .sec__logo {
+        max-width: 10rem;
+    }
+
+    .ftr__name {
+        font-size: 6rem;
+        line-height: 6rem;
+    }
+
+    .svn {
+        row-gap: 2rem;
+    }
+
+    .eig__image {
+        width: 275%;
+    }
+
+    .tn {
+        padding-top: 5rem;
+    }
+
+    .thrt {
+        row-gap: 2rem;
+    }
+
+    .person__title {
+        font-size: 3rem;
+        line-height: 2rem;
+    }
+
+    .end__image {
+        max-width: 90%;
+    }
+}
