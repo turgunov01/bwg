@@ -142,3 +142,6 @@ const removeActions = () => {
 removeActions()
 
 
+
+
+console.log('Function did work!')
